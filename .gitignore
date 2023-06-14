@@ -104,3 +104,4 @@ ENV/
 .mypy_cache/
 
 runs/
+catboost_info/
